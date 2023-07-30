@@ -1,0 +1,15 @@
+Study material for Intro to Web Development
+
+Javascript Print statements examples
+
+console.log("Hello World!")
+
+function printMyInput(user_input) {
+    console.log("The parameter passed is " + user_input)
+}
+
+let printMyInputES6 = (user_input) => {
+    console.log(user_input)
+}
+
+let printMyInputES6Short = user_input => console.log(user_input)
