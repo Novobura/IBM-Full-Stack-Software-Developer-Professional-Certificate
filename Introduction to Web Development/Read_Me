@@ -1,5 +1,7 @@
 Code and study material for Intro to Web Development
 
+use VS Code IDE to run these files in a browser using the Live Server extension 
+
 Javascript Print statements examples
 
 console.log("Hello World!")
