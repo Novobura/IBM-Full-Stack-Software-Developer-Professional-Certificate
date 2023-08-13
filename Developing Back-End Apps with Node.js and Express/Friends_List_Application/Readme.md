@@ -4,5 +4,5 @@ run npm install to install all the packages that are required for running the se
 
 run npm to start express server
 
-curl localhost:5000/user
+run curl localhost:5000/user (in a new terminal window) to verify
 
