@@ -1,5 +1,8 @@
 Python Package management example
 
+Create folder mymath
+upload basic.py, stats.py, __init__.py
+
 At the terminal type python3 to invoke python interpreter.
 Once the python interpreter is loaded.
 At the python prompt type import mymath
